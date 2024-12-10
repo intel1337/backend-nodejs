@@ -39,4 +39,4 @@ app.get("/", async(req, res) => {
         res.send("merci");
         });
 
-app.listen(3005, "0.0.0.0",() => console.log("server running on port 3005"));
+app.listen(3005, "3.75.158.163",() => console.log("server running on port 3005"));
