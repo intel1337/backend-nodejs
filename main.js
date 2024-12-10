@@ -1,6 +1,6 @@
 
-//pk_test_51QUAU5L15jTnrWVNQIrGQuQvSt73Th218nrpxqXlTY3E5s5B6t6rdab09ONF5poPlJUTtY4P1mGHUiYeSiSvComk00jXphZiCb
-const stripe = require("stripe")("sk_test_51QUAU5L15jTnrWVNBQWVqnvr0aBKK62rC3AjsMVZTH18a5M3mIOHBKhVwRuBb7pjTaC8TTkejhRinpFLH1qlfIJj00jjIc8oFU")
+
+const stripe = require("stripe")("")
 const express = require("express")
 const cors = require("cors")
 const app = express()
